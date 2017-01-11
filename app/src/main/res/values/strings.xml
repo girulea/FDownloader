@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlashDownloader</string>
+    <string name="url_download"></string>
+</resources>
